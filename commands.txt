@@ -1,0 +1,73 @@
+//First Round:
+$ git init
+$ git remote add origin https://github.com/Eithar-Yahia/Lab1Version
+$ git add .
+$ git config --global user.email "eitharyahia@yahoo.com"
+$ git config --global user.name "Eithar Yahia"
+$ git commit -m "First commit"
+$ git branch -M main
+$ git push -u origin main 
+
+//Reversing:
+$ git clone https://github.com/mariamdawa/gitlab1
+$ git add .
+$ git commit -m "Eithar Commit"
+$ git push -u origin main
+
+
+//History:
+
+Merge: 6a2cb52 9d3780d
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 10:47:18 2021 +0200
+
+    forth
+
+commit 6a2cb523ee8725d7002dd82be9631c7a2e57ba46
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 10:44:28 2021 +0200
+
+    Third
+
+commit 9d3780d6608d24d6b64291b98cd1e53784f10034
+Author: MariamDawa <mariamsamirdawa@gmail.com>
+Date:   Sat Jan 2 10:15:56 2021 +0200
+
+    Matkalemniish
+
+commit ff86ad6a7b5a25ba7fca0951740f25152daec8ea
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 09:56:52 2021 +0200
+
+    First Commit
+~
+~
+~
+Merge: 6a2cb52 9d3780d
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 10:47:18 2021 +0200
+
+    forth
+
+commit 6a2cb523ee8725d7002dd82be9631c7a2e57ba46
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 10:44:28 2021 +0200
+
+    Third
+
+commit 9d3780d6608d24d6b64291b98cd1e53784f10034
+Author: MariamDawa <mariamsamirdawa@gmail.com>
+Date:   Sat Jan 2 10:15:56 2021 +0200
+
+    Matkalemniish
+
+commit ff86ad6a7b5a25ba7fca0951740f25152daec8ea
+Author: Eithar-Yahia <eitharyahia@yahoo.com>
+Date:   Sat Jan 2 09:56:52 2021 +0200
+
+    First Commit
+(END)
+
+
+
+
